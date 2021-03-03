@@ -129,6 +129,7 @@ namespace Landmines
             }
             int LandminesNumber = 0;
         }
+
         private void AddLandminesBt()
         {
             int LandminesNumber = 0; //按鈕編號,用來判斷是否等於炸彈編號
