@@ -113,7 +113,6 @@ namespace Landmines
                 }
             }
         }
-
         private void LandminesProduce()
         {
             for (int i = 0; i < LandminesAmount; i++)
