@@ -362,7 +362,7 @@ namespace Landmines
                         {
                             TextNumber += 1;
                         }
-                        if (LandminesBt[i - 1 + Row].Text == "X")
+                        if (LandminesBt[i + 1 + Row].Text == "X")
                         {
                             TextNumber += 1;
                         }
